@@ -56,7 +56,6 @@ watch(
         tempSaveContent = saveContent
         tempContent = content
       }
-      console.log(tempContent)
       rawContent.value = tempSaveContent
       lineNumRef.value = tempContent.split('\n').length
       highLightLines.value = convertedFileToHTML(tempContent)
