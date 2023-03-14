@@ -1,0 +1,58 @@
+{
+  "id": "3923058",
+  "name": "文件管理器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34379791",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "577402",
+      "name": "向右1",
+      "font_class": "xiangyou1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "34273090",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "34272969",
+      "name": "单个文件",
+      "font_class": "dangewenjian",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "34272972",
+      "name": "多个文件 2",
+      "font_class": "a-duogewenjian2",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "34273066",
+      "name": "刷新 2",
+      "font_class": "a-shuaxin2",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "34273077",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}
